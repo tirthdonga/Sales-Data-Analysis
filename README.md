@@ -188,6 +188,7 @@ The **data** worksheet is the main source dataset used throughout the project.
 ## Output
 
 <img src="images/q1.png">
+<img src="images/image.png">
 
 ---
 
