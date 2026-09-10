@@ -189,8 +189,6 @@ The **data** worksheet is the main source dataset used throughout the project.
 
 <image src="Images/q1.png">
 
-
-
 ---
 
 ## 2. 💡 What-If Analysis – Discount vs Profit
@@ -211,11 +209,7 @@ Different discount rates are evaluated to calculate projected total profit and c
 
 ## Output
 
-> 🖼️ **Q2 Screenshot – What-If Analysis**
-
-**[ 📸 Insert Q2 Screenshot Here ]**
-
-`Images/Q2-what-if.png`
+<image src="Images/q2.png">
 
 ---
 
@@ -241,11 +235,7 @@ The regression output evaluates the relationship between sales and profit using 
 
 ## Output
 
-> 🖼️ **Q3 Screenshot – Linear Regression**
 
-**[ 📸 Insert Q3 Screenshot Here ]**
-
-`Images/Q3-regression.png`
 
 ---
 
@@ -275,11 +265,7 @@ The regression output evaluates the relationship between sales and profit using 
 
 ## Output
 
-> 🖼️ **Q4 Screenshot – Descriptive Statistics**
-
-**[ 📸 Insert Q4 Screenshot Here ]**
-
-`Images/Q4-descriptive-statistics.png`
+<image src="Images/q4.png">
 
 ---
 
