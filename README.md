@@ -189,6 +189,8 @@ The **data** worksheet is the main source dataset used throughout the project.
 
 <image src="Images/q1.png">
 
+
+
 ---
 
 ## 2. 💡 What-If Analysis – Discount vs Profit
