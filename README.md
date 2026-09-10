@@ -136,9 +136,7 @@ The **Dashboard** worksheet provides a visual summary of the sales analysis usin
 
 ## Output
 
-> 🖼️ **Dashboard Screenshot**
-
-**[ 📸 Insert Dashboard Screenshot Here ]**
+<image src="Images/q11.png">
 
 `Images/dashboard.png`
 
@@ -339,11 +337,7 @@ Customer-level sales information is summarized and used to identify customers wi
 
 ## Output
 
-> 🖼️ **Q7 Screenshot – High-Value Customers**
-
-**[ 📸 Insert Q7 Screenshot Here ]**
-
-`Images/Q7-high-value-customers.png`
+<image src="Images/q7.png">
 
 ---
 
@@ -366,7 +360,7 @@ The Pivot Table provides a quick comparison of product performance across Centra
 
 ## Output
 
-<image src="Images/q5.png">
+<image src="Images/q8.png">
 
 ---
 
@@ -386,11 +380,7 @@ Charts transform numerical analysis into easy-to-understand visual information f
 
 ## Output
 
-> 🖼️ **Q9 Screenshot – Charts**
-
-**[ 📸 Insert Q9 Screenshot Here ]**
-
-`Images/Q9-charts.png`
+<image src="Images/q9.1.png" width="250"><image src="Images/q9.2.png" width="280">
 
 ---
 
@@ -415,11 +405,7 @@ The goal is to present the analysis in a concise and decision-friendly format.
 
 ## Output
 
-> 🖼️ **Q10 Screenshot – Dashboard Insights**
-
-**[ 📸 Insert Q10 Screenshot Here ]**
-
-`Images/Q10-insights.png`
+<image src="Images/q10.png">
 
 ---
 
