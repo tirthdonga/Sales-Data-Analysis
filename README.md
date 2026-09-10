@@ -316,11 +316,7 @@ The timestamp records the current date and time when the formula is calculated.
 
 ## Output
 
-> 🖼️ **Q6 Screenshot – Timestamp**
-
-**[ 📸 Insert Q6 Screenshot Here ]**
-
-`Images/Q6-timestamp.png`
+<image src="Images/q6.png">
 
 ---
 
@@ -370,11 +366,7 @@ The Pivot Table provides a quick comparison of product performance across Centra
 
 ## Output
 
-> 🖼️ **Q8 Screenshot – Pivot Table**
-
-**[ 📸 Insert Q8 Screenshot Here ]**
-
-`Images/Q8-pivot-table.png`
+<image src="Images/q5.png">
 
 ---
 
