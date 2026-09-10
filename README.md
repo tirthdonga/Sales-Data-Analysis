@@ -293,11 +293,7 @@ Monthly sales are compared with the previous month to calculate the percentage g
 
 ## Output
 
-> 🖼️ **Q5 Screenshot – Monthly Sales Growth**
-
-**[ 📸 Insert Q5 Screenshot Here ]**
-
-`Images/Q5-monthly-growth.png`
+<image src="Images/q5.png">
 
 ---
 
