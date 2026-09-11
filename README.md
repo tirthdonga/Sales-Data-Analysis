@@ -136,7 +136,7 @@ The **Dashboard** worksheet provides a visual summary of the sales analysis usin
 
 ## Output
 
-<image src="Images/dashboard.png">
+<image src="Images/dahsboard1.png">
 
 `Images/dashboard.png`
 
